@@ -1,0 +1,37 @@
+
+# DATA
+data/
+*.csv
+*.xlsx
+
+
+# PYTHON
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# ENVIRONMENT
+.env
+.venv/
+env/
+venv/
+
+
+# CONDA
+.conda/
+
+
+# JUPYTER
+.ipynb_checkpoints/
+
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+
+# IDE
+.vscode/
+.idea/
